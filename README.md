@@ -2,4 +2,4 @@ In this repository are retro handheld overlays for devices with a resolution of 
 
 I cannot provide complete documentation on the usage of overlays on a particular device, but essentially you just download the .png and .cfg files to your device and place them in a folder of your choosing. Navigate to them in Retroarch and select the one you desire for a particular system.
 
-NOTE: I want to note these are all modified from other community-created overlays. I merely re-used the assets to create ones for this resolution.
+NOTE: I want to note these are all modified from other community-created overlays. I merely re-used the assets to create ones for this resolution. It did take a number of hours of work, but this is all piggybacking on the previous work of others.
