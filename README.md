@@ -8,11 +8,12 @@ NOTE: I want to note these are all modified from other community-created overlay
 
 Here are just a few examples of what they look like in use:
 
+_Game Boy Color (with a fairly strong overlay opacity)_
 <img width="1279" height="964" alt="mariogolf" src="https://github.com/user-attachments/assets/63148afd-3c7a-49e2-bee9-0e4dc92e8326" />
-Game Boy Color (with a fairly strong overlay opacity)
 
+_Game Boy (with a lower overlay opacity)_
 <img width="1280" height="960" alt="megaman" src="https://github.com/user-attachments/assets/84e166bd-c1b2-4de2-b560-6274ed956c9d" />
-Game Boy (with a lower overlay opacity)
 
+_Game Boy Advance_
 <img width="1280" height="960" alt="metroid" src="https://github.com/user-attachments/assets/798543c8-49f3-46cd-81f7-b9a32a4f9dd9" />
-Game Boy Advance
+
